@@ -557,7 +557,9 @@ div.nav-bar{
 section.preface {
   top: 100px;
 }
-*/
+.steps div div h3{
+  font-size: 15px ;
+}
 }
 
 @media only screen and (max-width: 992px) {
