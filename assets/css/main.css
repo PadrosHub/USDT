@@ -432,27 +432,42 @@ div.copyright img {
     padding: 0;
     width: 100%;
   }
+  div.container{
+    width: 80%;
+    padding-bottom: 35px;
+    height: 300px;
+  }
   div.banner{
     display: none;
   }
   section.preface{
     width: 100%;
     font-size: 17px;
+
   }
   div.div-reg-img, div.div-earn-img{
     display: none;
   }
+  section.ent-bnt{
+    display: flex;
+  }
   div.steps{
     padding-bottom: 30px;
   }
+  button.watch{
+    display: none;
+  }
   div.abt-content {
     font-size: 15px;
+  }
+  img.ratting{
+    display: none;
   }
   h2{
     font-size: 17px;
   }
   h1{
-    font-size: 15px;
+    font-size: 25px !important;
   }
   div.portfolio-container {
     display: flex;
@@ -542,7 +557,7 @@ div.nav-bar{
 section.preface {
   top: 100px;
 }
-
+*/
 }
 
 @media only screen and (max-width: 992px) {
